@@ -1,1 +1,0 @@
-select * from emp where ename='pratik';git
